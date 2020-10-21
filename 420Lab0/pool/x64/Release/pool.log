@@ -1,0 +1,19 @@
+﻿  test_equality.c
+C:\Users\Ben\source\repos\420Lab0\pool\lodepng.cu(773,34): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\Ben\source\repos\420Lab0\pool\lodepng.cu(1437,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ben\source\repos\420Lab0\pool\lodepng.cu(1441,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ben\source\repos\420Lab0\pool\lodepng.cu(1479,88): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Ben\source\repos\420Lab0\pool\lodepng.cu(1513,86): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Ben\source\repos\420Lab0\pool\lodepng.cu(1461,1): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Ben\source\repos\420Lab0\pool\lodepng.cu(3441,54): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Ben\source\repos\420Lab0\pool\lodepng.cu(3435,1): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\Ben\source\repos\420Lab0\pool\lodepng.cu(4244,75): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Ben\source\repos\420Lab0\pool\lodepng.cu(4292,41): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Ben\source\repos\420Lab0\pool\lodepng.cu(4372,59): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Ben\source\repos\420Lab0\pool\lodepng.cu(5312,1): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+     Creating library C:\Users\Ben\source\repos\420Lab0\x64\Release\pool.lib and object C:\Users\Ben\source\repos\420Lab0\x64\Release\pool.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  pool.vcxproj -> C:\Users\Ben\source\repos\420Lab0\x64\Release\pool.exe
